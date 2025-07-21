@@ -1,0 +1,10 @@
+Name,Email,Phone
+John Smith,john.smith@email.com,555-123-4567
+Jane Doe,,555-987-6543
+Tom Johnson,tom.j@email.com,
+Mary Lee,mary.lee@email.com,555-000-1111
+,missing.email@email.com,555-222-3333
+Alex Chen,, 
+Sara Jones,sara@email.com,555-444-5555
+John Smith,john.smith@email.com,555-123-4567
+
